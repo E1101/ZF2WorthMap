@@ -1,7 +1,9 @@
 ZF2WorthMap
 ===========
 
-Zend Framework 2 Cheet Sheets and Code Map
+Zend Framework 2 Cheet Sheets and Code Map.
+
+*i found this very usefuel during application development proccess* 
 
 ![worthmap](http://raya-media.com/cd/zf2worthmap.jpg)
 
